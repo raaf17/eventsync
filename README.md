@@ -1,53 +1,54 @@
-# EventSync: Simplifying Event Management
+# EventSync: Mempermudah Manajemen Event
 
-EventSync is an innovative platform designed to streamline the process of organizing and managing various types of events efficiently. Built using modern technologies such as CodeIgniter 4 and Bootstrap 4, and supported by DataTables library and the elegant admin template from Stisla, EventSync delivers an unparalleled event management experience.
 
-## Key Features:
+EventSync adalah platform inovatif yang dirancang untuk mempermudah proses pengorganisasian dan manajemen berbagai jenis acara dengan efisien. Dibangun menggunakan teknologi modern seperti CodeIgniter 4 dan Bootstrap 4, serta didukung oleh library DataTables dan template admin elegan dari Stisla, EventSync memberikan pengalaman manajemen acara yang tak tertandingi.
 
-- **Effortless Event Management**: With EventSync, you can quickly create, edit, and delete events. The intuitive interface makes scheduling, location management, and other details a breeze.
+## Fitur Utama:
 
-- **Accurate Event Recording**: Record every vital detail about your events. No need to worry about losing valuable information.
+- **Manajemen Event Tanpa Usaha**: Dengan EventSync, Anda dapat dengan cepat membuat, mengedit, dan menghapus acara. Antarmuka yang intuitif memudahkan penjadwalan, pengelolaan lokasi, dan detail lainnya.
 
-- **Group and Contact Data**: Store group and contact information all in one place. Managing event participants becomes more structured and effective.
+- **Pencatatan Acara yang Akurat**: Catat setiap detail penting tentang acara Anda. Tak perlu khawatir kehilangan informasi berharga.
 
-- **Well-Managed Invitations**: Handling invitations is made easy. Monitor invitation statuses and ensure every participant gets the information they need.
+- **Data Grup dan Kontak**: Simpan informasi grup dan kontak dalam satu tempat. Pengelolaan peserta acara menjadi lebih terstruktur dan efektif.
 
-- **Advanced Search and Filtering**: Quickly find event, group, or contact information using the powerful search feature. Filtering also aids in data analysis.
+- **Pengelolaan Undangan yang Teratur**: Mengelola undangan menjadi lebih mudah. Pantau status undangan dan pastikan setiap peserta mendapatkan informasi yang dibutuhkan.
 
-- **Responsive Navigation and Display**: Bootstrap 4 based responsive design ensures you can access EventSync from any device - be it a computer, tablet, or smartphone.
+- **Pencarian dan Penyaringan Lanjutan**: Temukan informasi acara, grup, atau kontak dengan cepat menggunakan fitur pencarian yang kuat. Penyaringan juga membantu analisis data.
 
-- **Data Export and Import**: With the ability to export and import data to Excel format, you have added flexibility in managing your event information.
+- **Navigasi dan Tampilan Responsif**: Desain responsif berbasis Bootstrap 4 memastikan Anda dapat mengakses EventSync dari perangkat apa pun - baik komputer, tablet, atau ponsel.
 
-## Software Requirements:
+- **Ekspor dan Impor Data**: Dengan kemampuan untuk mengeluarkan dan mengimpor data dalam format Excel, Anda memiliki fleksibilitas ekstra dalam mengelola informasi acara.
 
-Before you start using EventSync, make sure you have:
+## Persyaratan Perangkat Lunak:
 
-- PHP 7.4 or newer.
-- MySQL database to store event, group, and contact data.
-- A web server (such as Apache or Nginx).
-- Composer to manage CodeIgniter 4 dependencies.
+Sebelum Anda mulai menggunakan EventSync, pastikan Anda memiliki:
 
-## Installation:
+- PHP 7.4 atau versi lebih baru.
+- Database MySQL untuk menyimpan data acara, grup, dan kontak.
+- Server web (seperti Apache atau Nginx).
+- Composer untuk mengelola dependensi CodeIgniter 4.
 
-1. Clone the EventSync repository to your web directory.
-2. Configure the `.env` file with your database details.
-3. Open a terminal, navigate to the EventSync directory, and run the `composer install` command to install dependencies.
-4. Run database migration using `php spark migrate` command.
-5. Run `php spark db:seed EventSeeder` to add sample data (optional).
-6. Access EventSync through your web browser.
+## Instalasi:
 
-## Contribution Guidelines:
+1. Clone repositori EventSync ke direktori web Anda.
+2. Konfigurasi berkas `.env` dengan detail database Anda.
+3. Buka terminal, navigasi ke direktori EventSync, dan jalankan perintah `composer install` untuk menginstal dependensi.
+4. Jalankan migrasi database dengan perintah `php spark migrate`.
+5. Jalankan `php spark db:seed EventSeeder` untuk menambahkan data contoh (opsional).
+6. Akses EventSync melalui peramban web Anda.
 
-We welcome contributions from the community! If you'd like to contribute to the development of EventSync, follow these steps:
+## Pedoman Kontribusi:
 
-1. Fork the EventSync repository to your GitHub account.
-2. Make changes in your forked repository.
-3. Submit a pull request with a detailed description of your proposed changes.
+Kami menyambut kontribusi dari komunitas! Jika Anda ingin berkontribusi pada pengembangan EventSync, ikuti langkah berikut:
 
-Let's work together to make EventSync even better!
+1. Fork repositori EventSync ke akun GitHub Anda.
+2. Lakukan perubahan pada repositori yang telah Anda fork.
+3. Kirimkan pull request dengan deskripsi rinci tentang perubahan yang Anda usulkan.
 
-With EventSync, you'll experience the benefits of more efficient and organized event management. Feel free to explore our platform and start harnessing the advanced features we offer.
+Mari kita bersama-sama membuat EventSync menjadi lebih baik!
 
-Visit us at [www.eventsync.com](link_to_your_website) and begin managing your events better than ever before! If you have any questions or feedback, don't hesitate to contact our support team at support@eventsync.com.
+Dengan EventSync, Anda akan merasakan manfaat dari manajemen acara yang lebih efisien dan teratur. Jangan ragu untuk menjelajahi platform kami dan mulai memanfaatkan fitur canggih yang kami tawarkan.
 
-*EventSync - Steering Your Events Towards Success!*
+Kunjungi kami di [www.eventsync.com](tautan_ke_website_anda) dan mulai kelola acara Anda dengan lebih baik dari sebelumnya! Jika Anda memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi tim dukungan kami di support@eventsync.com.
+
+*EventSync - Mengarahkan Acara Anda Menuju Kesuksesan!*
