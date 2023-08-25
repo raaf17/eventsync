@@ -1,7 +1,5 @@
 # EventSync: Simplifying Event Management
 
-![EventSync Banner](link_to_your_banner_image)
-
 EventSync is an innovative platform designed to streamline the process of organizing and managing various types of events efficiently. Built using modern technologies such as CodeIgniter 4 and Bootstrap 4, and supported by DataTables library and the elegant admin template from Stisla, EventSync delivers an unparalleled event management experience.
 
 ## Key Features:
