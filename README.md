@@ -49,6 +49,4 @@ Mari kita bersama-sama membuat EventSync menjadi lebih baik!
 
 Dengan EventSync, Anda akan merasakan manfaat dari manajemen acara yang lebih efisien dan teratur. Jangan ragu untuk menjelajahi platform kami dan mulai memanfaatkan fitur canggih yang kami tawarkan.
 
-Kunjungi kami di [www.eventsync.com](tautan_ke_website_anda) dan mulai kelola acara Anda dengan lebih baik dari sebelumnya! Jika Anda memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi tim dukungan kami di support@eventsync.com.
-
 *EventSync - Mengarahkan Acara Anda Menuju Kesuksesan!*
