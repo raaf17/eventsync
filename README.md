@@ -88,16 +88,16 @@ $ git clone https://github.com/raaf17/eventsync.git
 Buat database dengan nama "eventsync" di DMBS [phpmyadmin, dll]
 
 # Install composer
-Jalankan `composer install`
+Jalankan composer install
 
 # Konfigurasi .env
 Copy env menjadi .env, kemudian atur konfigurasi sesuai dengan sistem anda
 
 # Migrate database
-Jalankan `php spark migrate`
+Jalankan php spark migrate
 
 # Run Aplikasi
-Jalankan perintah `php spark serve` untuk menjalankan aplikasi tersebut
+Jalankan perintah php spark serve untuk menjalankan aplikasi tersebut
 
 # Buka browser
 http://localhost/eventsync
