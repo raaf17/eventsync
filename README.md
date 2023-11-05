@@ -118,5 +118,4 @@ Berhubung Project ini saya selesaikan sendiri, namun banyak fitur dan banyak hal
 ---
 
 **<p align="center">Mari kita bersama-sama membuat EventSync menjadi lebih baik! <br>
-
 Dengan EventSync, Anda akan merasakan manfaat dari manajemen acara yang lebih efisien dan teratur. Jangan ragu untuk menjelajahi platform kami dan mulai memanfaatkan fitur canggih yang kami tawarkan.</p>**
